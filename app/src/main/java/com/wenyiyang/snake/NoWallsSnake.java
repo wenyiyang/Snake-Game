@@ -29,6 +29,7 @@ import java.util.Random;
  * game over and automatically go to no wall score.
  */
 public class NoWallsSnake extends AppCompatActivity {
+
     private boolean playMusic;
     private MediaPlayer musicPlayer;
     private RelativeLayout noWallsSnakeLayout;
